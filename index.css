@@ -27,6 +27,6 @@ nav{
     color: rgb(226,226,266);
 }
 .links ul li a:hover{
-    color: yellow;
+    color: black;
     font-weight: bold;
 }
