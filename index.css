@@ -10,7 +10,7 @@ a{
     text-decoration: none;
 }
 nav{
-    background-color: #2b2b2b;
+    background-color: blue;
     display: flex;
     justify-content: space-between;
     padding-top: 1em;
@@ -27,6 +27,6 @@ nav{
     color: rgb(226,226,266);
 }
 .links ul li a:hover{
-    color: white;
+    color: yellow;
     font-weight: bold;
 }
