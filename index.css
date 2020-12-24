@@ -24,7 +24,7 @@ nav{
     margin-right: 1em;
 }
 .links ul li a{
-    color: rgb(226,226,266);
+    color: yellow
 }
 .links ul li a:hover{
     color: rgba(228, 9, 9, 0.774);
