@@ -30,7 +30,6 @@ nav{
     color: rgba(228, 9, 9, 0.774);
     font-weight: bold;
 }
-a:hover{
-    background:#f29901;
-    display:block;
+.word:hover{
+    text-decoration: brown;
 }
