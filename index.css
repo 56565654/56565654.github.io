@@ -49,13 +49,14 @@ nav{
  */
 .article{
     background-color: orange;
-    margin:20PX auto ;
-    width: 80%;
+    margin:10PX auto ;
+    width: 50%;
     border-radius:8px ;
     padding:8px 12px ;
     box-shadow: 2px 2px 6px 4px black;
     display: flex;
     flex-direction:column ;
+    
  }
 .article h1{
     margin-top:0 ;
